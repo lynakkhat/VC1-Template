@@ -157,7 +157,7 @@
                   class="user-image rounded-circle shadow"
                   alt="User Image"
                 />
-                <span class="d-none d-md-inline">Alexander Pierce</span>
+                <span class="d-none d-md-inline">Is Moon</span>
               </a>
               <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
                 <!--begin::User Image-->
@@ -213,7 +213,7 @@
             />
             <!--end::Brand Image-->
             <!--begin::Brand Text-->
-            <span class="brand-text fw-light">AdminLTE 4</span>
+            <span class="brand-text fw-light">I'm Moon</span>
             <!--end::Brand Text-->
           </a>
           <!--end::Brand Link-->
